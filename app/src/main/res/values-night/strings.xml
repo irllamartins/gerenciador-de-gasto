@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_app">Gerenciador de gasto</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+</resources>

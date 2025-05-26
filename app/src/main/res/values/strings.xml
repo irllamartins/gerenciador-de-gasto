@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gerenciador de gasto</string>
+    <string name="name_app">Gerenciador de gasto</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="btn_login_text">Entrar</string>
+    <string name="forget_text">Lembrar</string>
+    <string name="register">Criar uma contar</string>
+    <string name="name">Nome</string>
+    <string name="title_activity_home">Movimentações</string>
+    <string name="action_signout">Sair</string>
+    <string name="movimentacao_texto">Movimentação</string>
+    <string name="date_text">Data</string>
+    <string name="value_text">Valor</string>
+    <string name="descption_text">Descrição</string>
+    <string name="input_text">Entrada</string>
+    <string name="out_text">Saida</string>
+    <string name="salve_text">Salvar</string>
+</resources>
